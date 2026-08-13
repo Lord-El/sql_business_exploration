@@ -1,0 +1,3 @@
+Delivery_Status,Avg_Order_Placement_to_Approval,Avg_Approval_to_Carrier,Avg_Carrier_to_Customer
+"On Time",0.5,2.5,8.0
+Delayed,0.6,5.4,27.6
