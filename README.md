@@ -133,7 +133,6 @@ Additional visualisations covering revenue distribution, Tech vs Non-Tech catego
 
 ## 📧 Contact
 
-- **Email:** `your.email@example.com`
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
-- **GitHub:** [Your GitHub Profile](https://github.com/)
-- **Portfolio:** Optional
+- **Email:** `sharon.schwaab`
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sharon-schwaab/)
+- **GitHub:** [Your GitHub Profile](https://github.com/sharon-schwaab/)
