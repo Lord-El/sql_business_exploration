@@ -103,15 +103,11 @@ sql_business_exploration/
 
 This Tableau visualisation compares the sales volume of expensive and non-expensive products across Tech and Other categories. It highlights the substantially lower sales volume of expensive Tech products, which is one of the central market-fit concerns for Eniac.
 
-> **Note:** Update the image path below if your PNG uses a different filename.
-
-```markdown
-![Expensive vs Non-Expensive Products](./tableau/exports/expensive_vs_non_expensive_tech.png)
-```
+![Expensive vs Non-Expensive Products](tableau/exports/expensive_vs_non_expensive_tech.png)
 
 Additional visualisations covering revenue distribution, Tech vs Non-Tech categories, seller/order development, and delivery performance are available in the final presentation:
 
-[View the final Eniac–Magist presentation](presentation/Eniac%20-%20Magist%20Partnership%20Analysis%20Presentation.pdf)
+[View the final Eniac–Magist presentation](presentation/eniac_magist_partnership_analysis.pdf)
 
 ## 🔗 How to Use This Project
 
