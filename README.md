@@ -106,7 +106,7 @@ This Tableau visualisation compares the sales volume of expensive and non-expens
 > **Note:** Update the image path below if your PNG uses a different filename.
 
 ```markdown
-![Expensive vs Non-Expensive Products](tableau/exports/expensive_vs_non_expensive_tech.png)
+![Expensive vs Non-Expensive Products](./tableau/exports/expensive_vs_non_expensive_tech.png)
 ```
 
 Additional visualisations covering revenue distribution, Tech vs Non-Tech categories, seller/order development, and delivery performance are available in the final presentation:
