@@ -115,7 +115,7 @@ Additional visualisations covering revenue distribution, Tech vs Non-Tech catego
 
 ## 🔗 How to Use This Project
 
-1. **Start with the business outcome:** Open the [final presentation](presentation/eniac_magist_partnership_analysis.pdf) for the main findings and recommendation.
+1. **Start with the business outcome:** Open the  [final presentation](presentation/eniac_magist_partnership_analysis.pdf) for the main findings and recommendation.
 2. **Review the SQL analysis:** Open [`sql/eniac_magist_analysis.sql`](sql/eniac_magist_analysis.sql) to see the queries used for the business exploration.
 3. **Inspect the source data:** The original datasets are stored in [`data/raw/`](data/raw/).
 4. **Inspect analysis outputs:** SQL-generated result sets used for further analysis and visualisation are stored in [`data/processed/`](data/processed/).
